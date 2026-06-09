@@ -1,0 +1,7 @@
+1000.0,200.0
+Gas,N,125.0
+Groceries,N,125.0
+College,N,125.0
+Car,N,125.0
+Games,W,150.0
+Window tint,W,150.0

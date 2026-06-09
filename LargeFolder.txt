@@ -1,0 +1,9 @@
+1000.0,200.0
+Gas,N,100.0
+Groceries,N,100.0
+College,N,100.0
+Car payments,N,100.0
+Bills,N,100.0
+Games,W,100.0
+Window tint,W,100.0
+Camera flash,W,100.0
